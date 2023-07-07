@@ -11,7 +11,7 @@ samenwerkende overheidsorganisaties. Het is gebaseerd op het Standaard
 Uitwisselings Formaat (<span style="color:red">StUF</span>) voor
 het uitwisselen van gegevens die zijn beschreven in het Referentiemodel
 Stelsel Gemeentelijke Basisgegevens (<span style="color:red">RSGB
-2.0)</span>) c.q. in
+2.0</span>) c.q. in
 het Gemeentelijk Functioneel Ontwerp (GFO). StUF-BG bevat generieke
 berichten voor de uitwisseling van gegevens over bijvoorbeeld personen,
 bedrijven en gebouwen.
@@ -26,7 +26,7 @@ en voor de [nieuwste discussies m.b.t. StUF-BG
 ## StUF-BG 3.10
 
 StUF-BG 3.10 is afgeleid van de gegevensstandaard
-[RSGB](Informatiemodel_Basis-_en_Kerngegevens_(RSGB) "wikilink").
+<span style="color:red">RSGB</span>.
 Leveranciers baseren hun software op zowel de gegevens- als de
 berichtenstandaard. Daarmee wordt bereikt dat basis- en kerngegevens
 beheerd en gebruik kunnen worden conform de standaarden en wordt
@@ -59,7 +59,7 @@ discussies m.b.t. StUF-BG
 ## StUF-BG 2.04
 
 StUF-BG 2.04 is afgeleid van de gegevensstandaard GFO-Basisgegevens. De
-voorgaande versie van het [BAG-GBA koppelvlak](BAG-GBA "wikilink") is op
+voorgaande versie van het <span style="color:red">BAG-GBA koppelvlak</span> is op
 deze versie van StUF-BG gebaseerd.
 
 Ook hier is t.b.v. de aansluiting op BAG 2.0 een nieuwe patch
