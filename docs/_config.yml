@@ -14,7 +14,7 @@ nav:
     subnav:
       - title: Overzicht
         path: /
-       - title: Documentatie  
+      - title: Documentatie  
         path: /Documentatie
 #      - title: Werkgroep  
 #        path: /Werkgroep 
