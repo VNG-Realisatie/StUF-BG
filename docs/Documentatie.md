@@ -67,17 +67,6 @@ folder_files:
 		{% endfor %}
 	</tbody>
 </table>
-<ul>
-	{% for i in page.folder_files %}
-		{% if i.group == 310 %} 
-			<li>
-			  <a href="{{ i.path | base_url }}">
-				{{ i.title }}
-			  </a>
-			</li>
-		{% endif %} 
-	{% endfor %}
-</ul>
 
 ## StUF-BG 2.04
 
@@ -104,14 +93,3 @@ folder_files:
 		{% endfor %}
 	</tbody>
 </table>
-<ul>
-	{% for i in page.folder_files %}
-		{% if i.group == 204 %} 
-			<li>
-			  <a href="{{ i.path | base_url }}">
-				{{ i.title }}
-			  </a>
-			</li>
-		{% endif %} 
-	{% endfor %}
-</ul>
