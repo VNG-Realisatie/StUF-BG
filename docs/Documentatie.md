@@ -51,9 +51,9 @@ folder_files:
 		</tr>
 	</thead>
 	<tbody>
-		<tr>
-			{% for i in page.folder_files %}
-				{% if i.group == 310 %} 
+		{% for i in page.folder_files %}
+			{% if i.group == 310 %} 
+				<tr>
 					<td>
 					  <a href="{{ i.path | base_url }}">
 						{{ i.title }}
@@ -62,9 +62,9 @@ folder_files:
 					<td>{{ i.versie }}</td>
 					<td>{{ i.status }}</td>
 					<td>{{ i.omschrijving }}</td>
-				{% endif %} 
-			{% endfor %}
-		</tr>
+				</tr>
+			{% endif %} 
+		{% endfor %}
 	</tbody>
 </table>
 <ul>
@@ -88,9 +88,9 @@ folder_files:
 		</tr>
 	</thead>
 	<tbody>
-		<tr>
-			{% for i in page.folder_files %}
-				{% if i.group == 204 %} 
+		{% for i in page.folder_files %}
+			{% if i.group == 204 %} 
+				<tr>
 					<td>
 					  <a href="{{ i.path | base_url }}">
 						{{ i.title }}
@@ -99,9 +99,9 @@ folder_files:
 					<td>{{ i.versie }}</td>
 					<td>{{ i.status }}</td>
 					<td>{{ i.omschrijving }}</td>
-				{% endif %} 
-			{% endfor %}
-		</tr>
+				</tr>
+			{% endif %} 
+		{% endfor %}
 	</tbody>
 </table>
 <ul>
