@@ -47,7 +47,7 @@ folder_files:
 <table>
 	<thead>
 		<tr>
-			<td>Document</td><td>Versie</td><td>Beheerstatus</td><td>Beschrijving</td>
+			<b><td>Document</td><td>Versie</td><td>Beheerstatus</td><td>Beschrijving</td></b>
 		</tr>
 	</thead>
 	<tbody>
@@ -84,7 +84,7 @@ folder_files:
 <table>
 	<thead>
 		<tr>
-			<td>Document</td><td>Versie</td><td>Beheerstatus</td><td>Beschrijving</td>
+			<b><td>Document</td><td>Versie</td><td>Beheerstatus</td><td>Beschrijving</td></b>
 		</tr>
 	</thead>
 	<tbody>
