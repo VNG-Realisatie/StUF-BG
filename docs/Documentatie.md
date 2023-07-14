@@ -1,6 +1,6 @@
 ---
 layout: page-with-side-nav
-title: Documenten StUF-BG
+title: Documentatie StUF-BG
 folder_files:
   - title: Bg0204_20120701_patch13.zip
     path: documenten/Bg0204_20120701_patch13.zip
