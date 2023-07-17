@@ -8,7 +8,7 @@ title: StUF-BG
 StUF Basis Gegegevens (STUF-BG) is een berichtenstandaard voor de
 uitwisseling van basis- en kerngegevens binnen en tussen gemeenten en
 samenwerkende overheidsorganisaties. Het is gebaseerd op het Standaard
-Uitwisselings Formaat (<span style="color:red">StUF</span>) voor
+Uitwisselings Formaat ([StUF](https://vng-realisatie.github.io/StUF-onderlaag/)) voor
 het uitwisselen van gegevens die zijn beschreven in het Referentiemodel
 Stelsel Gemeentelijke Basisgegevens (<span style="color:red">RSGB
 2.0</span>) c.q. in
@@ -37,15 +37,15 @@ BAG-berichtencatalogus en de PRS-berichtencatalogus. De
 BAG-berichtencatalogus bevat specifieke berichten voor het uitwisselen
 van adressen en gebouwen op basis van het ‘Processenhandboek
 basisregistraties adressen en gebouwen’ van de BAG welke o.a. worden
-gebruikt in het <span style="color:red">Koppelvlak BAG</span>. Ook de
+gebruikt in het [Koppelvlak BAG](https://vng-realisatie.github.io/StUF-BAG/). Ook de
 PRS-berichtencatalogus bevat specifieke berichten, deze berichten hebben
 echter als doel het voor-invullen van deze gegevens in e-Formulieren te
 faciliteren en worden gebruikt door het <span style="color:red">Prefill eFormulierenservices
 koppelvlak</span>. De volgende
 standaarden zijn gerelateerd met StUF-BG 3.10:
 
-- <span style="color:red">BAG</span> *(actuele versie: ??)*
-- <span style="color:red">BAG-GBA</span> *(actuele versie: ??)*
+- [BAG](https://vng-realisatie.github.io/StUF-BAG/) *(actuele versie: ??)*
+- [BAG-GBA](https://vng-realisatie.github.io/StUF-BAG-GBA/) *(actuele versie: ??)*
 - <span style="color:red">StUF-Geo BAG</span> *(actuele versie: ??)*
 - <span style="color:red">Prefill eFormulierenservices</span> *(actuele versie: ??)*
 - <span style="color:red">StUF BRK-Levering</span> *(actuele versie: ??)* 
@@ -59,7 +59,7 @@ discussies m.b.t. StUF-BG
 ## StUF-BG 2.04
 
 StUF-BG 2.04 is afgeleid van de gegevensstandaard GFO-Basisgegevens. De
-voorgaande versie van het <span style="color:red">BAG-GBA koppelvlak</span> is op
+voorgaande versie van het [BAG-GBA koppelvlak](https://vng-realisatie.github.io/StUF-BAG-GBA/) is op
 deze versie van StUF-BG gebaseerd.
 
 Ook hier is t.b.v. de aansluiting op BAG 2.0 een nieuwe patch
