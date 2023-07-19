@@ -49,7 +49,7 @@ standaarden zijn gerelateerd met StUF-BG 3.10:
 - [StUF-Geo BAG](https://www.geonovum.nl/geo-standaarden/bgt-imgeo#standaarden)
 - [Prefill eFormulierenservices](https://vng-realisatie.github.io/Prefill-eFormulierenservices/)
 - [StUF-koppelvlak Kadastrale mutatieservices](https://vng-realisatie.github.io/Kadastrale-mutatieservices/)
-- [Vertaling StUF HR naar BG](Vertaling_NHR.zip)
+- [Vertaling StUF HR naar BG](documenten/Vertaling_NHR.zip)
 
 Inmiddels is patch 32 van StUF-BG 3.10 gepubliceerd zodat deze standaard
 weer aansluit bij BAG 2.0. Zie voor de inhoud van die patch [de
