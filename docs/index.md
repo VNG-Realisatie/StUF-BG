@@ -16,6 +16,8 @@ het Gemeentelijk Functioneel Ontwerp (GFO). StUF-BG bevat generieke
 berichten voor de uitwisseling van gegevens over bijvoorbeeld personen,
 bedrijven en gebouwen.
 
+Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk om invulling te (blijven) geven aan de behoefte en wensen van gemeenten. De doorontwikkeling van de StUF-BG is daarom stopgezet. Alleen wetswijzigingen, wijzigingen in de Logische Ontwerpen van Basisregistraties en gevonden fouten kunnen aanleiding zijn voor het publiceren van een nieuwe versie van deze standaarden. Zo wordt er voor gezorgd dat gemeenten hun werk kunnen blijven doen. Een toelichting op het vernieuwen van de standaarden is te vinden bij <span style="color:red">API-standaarden</span>.
+
 ## Discussieplatform
 
 Hier kunt u terecht voor de [nieuwste discussies m.b.t. StUF-BG
