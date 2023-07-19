@@ -40,19 +40,19 @@ basisregistraties adressen en gebouwen’ van de BAG welke o.a. worden
 gebruikt in het [Koppelvlak BAG](https://vng-realisatie.github.io/StUF-BAG/). Ook de
 PRS-berichtencatalogus bevat specifieke berichten, deze berichten hebben
 echter als doel het voor-invullen van deze gegevens in e-Formulieren te
-faciliteren en worden gebruikt door het <span style="color:red">Prefill eFormulierenservices
-koppelvlak</span>. De volgende
+faciliteren en worden gebruikt door het [Prefill eFormulierenservices
+koppelvlak](https://vng-realisatie.github.io/Prefill-eFormulierenservices/). De volgende
 standaarden zijn gerelateerd met StUF-BG 3.10:
 
-- [BAG](https://vng-realisatie.github.io/StUF-BAG/) *(actuele versie: ??)*
-- [BAG-GBA](https://vng-realisatie.github.io/StUF-BAG-GBA/) *(actuele versie: ??)*
-- <span style="color:red">StUF-Geo BAG</span> *(actuele versie: ??)*
-- <span style="color:red">Prefill eFormulierenservices</span> *(actuele versie: ??)*
-- <span style="color:red">StUF BRK-Levering</span> *(actuele versie: ??)* 
-- <span style="color:red">Vertaling StUF HR naar BG</span> *(actuele versie: ??)*
+- [BAG](https://vng-realisatie.github.io/StUF-BAG/)
+- [BAG-GBA](https://vng-realisatie.github.io/StUF-BAG-GBA/)
+- [StUF-Geo BAG](https://www.geonovum.nl/geo-standaarden/bgt-imgeo#standaarden)
+- [Prefill eFormulierenservices](https://vng-realisatie.github.io/Prefill-eFormulierenservices/)
+- [StUF-koppelvlak Kadastrale mutatieservices](https://vng-realisatie.github.io/Kadastrale-mutatieservices/)
+- [Vertaling StUF HR naar BG](Vertaling_NHR.zip)
 
 Inmiddels is patch 32 van StUF-BG 3.10 gepubliceerd zodat deze standaard
-weer aansluit bij BAG 2.0. Volg voor de inhoud van die patch [de
+weer aansluit bij BAG 2.0. Zie voor de inhoud van die patch [de
 discussies m.b.t. StUF-BG
 3.10](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/StUF-BG%203.10).
 
