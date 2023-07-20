@@ -5,8 +5,8 @@ title: StUF-BG
 # StUF-BG
 
 **Actuele versie:** 3.10  
-**Beheerder**  VNG Realisatie<br/>
-**Afkorting**  StUF-BG
+**Beheerder:**  VNG Realisatie<br/>
+**Afkorting:**  StUF-BG
 
 StUF Basis Gegegevens (STUF-BG) is een berichtenstandaard voor de
 uitwisseling van basis- en kerngegevens binnen en tussen gemeenten en
