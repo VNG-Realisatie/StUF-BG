@@ -53,6 +53,8 @@ standaarden zijn gerelateerd met StUF-BG 3.10:
 - [BAG-GBA](https://vng-realisatie.github.io/StUF-BAG-GBA/)
 - [StUF-Geo BAG](https://www.geonovum.nl/geo-standaarden/bgt-imgeo#standaarden)
 - [Prefill eFormulierenservices](https://vng-realisatie.github.io/Prefill-eFormulierenservices/)
+- [Sectormodel e-Formulieren: StUF-EF](https://vng-realisatie.github.io/StUF-EF/) *(actuele
+  versie: 3.15)*
 - [StUF-koppelvlak Kadastrale mutatieservices](https://vng-realisatie.github.io/Kadastrale-mutatieservices/)
 - [Vertaling StUF HR naar BG](documenten/Vertaling_NHR.zip)
 
