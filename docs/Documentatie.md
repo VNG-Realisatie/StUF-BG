@@ -8,36 +8,42 @@ folder_files:
     versie: 13
     status: Definitief
     omschrijving: 
+    datum: 20211208
   - title: Bg0310_20211208_patch32.zip
     path: documenten/Bg0310_20211208_patch32.zip
     group: 310
     versie: 32
     status: Definitief
     omschrijving: Bevat alle documentatie, schema's en WSDL's behorende bij patch 32 van StUF-BG 3.10 inclusief alle bij de StUF 3.01 onderlaag horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 3.10 horende extraElementen.
+    datum: 20211208
   - title: Extra-elementen_voor_bg0204.zip
     path: documenten/Extra-elementen_voor_bg0204.zip
     group: 204
     versie: 3-12-2021
     status: Definitief
     omschrijving: 
+    datum: 20211208
   - title: Extra-elementen_voor_bg0310.zip
     path: documenten/Extra-elementen_voor_bg0310.zip
     group: 310
     versie: 3-12-2021
     status: Definitief
     omschrijving: 
+    datum: 20211208
   - title: GFO_Basisgegevens.pdf
     path: documenten/GFO_Basisgegevens.pdf
     group: 204
     versie: 
     status: 
     omschrijving: 
+    datum: 
   - title: KeuzenVerStUFfing_RSGB.pdf
     path: documenten/KeuzenVerStUFfing_RSGB.pdf
     group: 310
     versie: 1.14
     status: Definitief
     omschrijving: 
+    datum: 20211203
 ---
 
 # Documentatie
@@ -47,7 +53,7 @@ folder_files:
 <table>
 	<thead>
 		<tr>
-			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th>
+			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th><th>Versiedatum</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -62,6 +68,7 @@ folder_files:
 					<td>{{ i.versie }}</td>
 					<td>{{ i.status }}</td>
 					<td>{{ i.omschrijving }}</td>
+					<td>{{ i.datum }}</td>
 				</tr>
 			{% endif %} 
 		{% endfor %}
@@ -73,7 +80,7 @@ folder_files:
 <table>
 	<thead>
 		<tr>
-			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th>
+			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th><th>Versiedatum</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -88,6 +95,7 @@ folder_files:
 					<td>{{ i.versie }}</td>
 					<td>{{ i.status }}</td>
 					<td>{{ i.omschrijving }}</td>
+					<td>{{ i.datum }}</td>
 				</tr>
 			{% endif %} 
 		{% endfor %}
