@@ -14,6 +14,10 @@ nav:
     subnav:
       - title: Overzicht
         path: /
+      - title: StUF-BG 3.10
+        path: /StUF-BG-310
+      - title: StUF-BG 2.04
+        path: /StUF-BG-204
       - title: Documentatie  
         path: /Documentatie
 #      - title: Werkgroep  
