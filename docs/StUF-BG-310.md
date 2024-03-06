@@ -40,11 +40,3 @@ Inmiddels is patch 32 van StUF-BG 3.10 gepubliceerd zodat deze standaard
 weer aansluit bij BAG 2.0. Zie voor de inhoud van die patch [de
 discussies m.b.t. StUF-BG
 3.10](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/StUF-BG%203.10).
-
-## StUF-BG 2.04
-
-StUF-BG 2.04 is afgeleid van de gegevensstandaard GFO-Basisgegevens. De
-2.04 versie van het [BAG-GBA koppelvlak](https://vng-realisatie.github.io/StUF-BAG-GBA/) is op
-deze versie van StUF-BG gebaseerd.
-
-Ook hier is t.b.v. de aansluiting op BAG 2.0 een nieuwe patch gepubliceerd (13).
