@@ -13,7 +13,7 @@ uitwisseling van basis- en kerngegevens binnen en tussen gemeenten en
 samenwerkende overheidsorganisaties. Het is gebaseerd op het Standaard
 Uitwisselings Formaat ([StUF](https://vng-realisatie.github.io/StUF-onderlaag/)) voor
 het uitwisselen van gegevens die zijn beschreven in het Referentiemodel
-Stelsel Gemeentelijke Basisgegevens (RSGB 2.0 [deel I](https://vng-realisatie.github.io/Standaarden/documenten/RSGB/RSG_Basisgegevens_202_deel_1_(in_gebruik).pdf) en[deel II](https://vng-realisatie.github.io/Standaarden/documenten/RSGB/RSG_Basisgegevens_202_deel_II_(in_gebruik).pdf)) c.q. in
+Stelsel Gemeentelijke Basisgegevens (RSGB 2.0 [deel I](https://vng-realisatie.github.io/Standaarden/documenten/RSGB/RSG_Basisgegevens_202_deel_1_(in_gebruik).pdf) en [deel II](https://vng-realisatie.github.io/Standaarden/documenten/RSGB/RSG_Basisgegevens_202_deel_II_(in_gebruik).pdf)) c.q. in
 het Gemeentelijk Functioneel Ontwerp (GFO). StUF-BG bevat generieke
 berichten voor de uitwisseling van gegevens over bijvoorbeeld personen,
 bedrijven en gebouwen.
