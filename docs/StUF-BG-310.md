@@ -5,7 +5,7 @@ title: StUF-BG 3.10
 # StUF-BG 3.10
 
 StUF-BG 3.10 is afgeleid van de gegevensstandaard
-<span style="color:red">RSGB</span>.
+[RSGB](https://vng-realisatie.github.io/RSGB/).
 Leveranciers baseren hun software op zowel de gegevens- als de
 berichtenstandaard. Daarmee wordt bereikt dat basis- en kerngegevens
 beheerd en gebruik kunnen worden conform de standaarden en wordt
