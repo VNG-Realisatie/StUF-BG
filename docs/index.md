@@ -4,8 +4,8 @@ title: StUF-BG
 ---
 # StUF-BG
 
-**Actuele versie:** 3.10  
-**Beheerder:**  VNG Realisatie
+**Actuele versie:** 3.10<br/>
+**Beheerder:**  VNG Realisatie<br/>
 **Afkorting:**  StUF-BG
 
 StUF Basis Gegegevens (STUF-BG) is een berichtenstandaard voor de
