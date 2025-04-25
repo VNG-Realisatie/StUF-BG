@@ -39,7 +39,7 @@ folder_files:
     datum: 20250321
   - title:  Sectormodel StUF-BG 2.04: Berichtdefinities (pdf)
     path: documenten/bg0204.pdf
-    group: 310
+    group: 204
     versie: 21-03-2025
     status: Definitief
     omschrijving: Bevat aanpassingen i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen.
