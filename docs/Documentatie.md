@@ -37,7 +37,7 @@ folder_files:
     status: Definitief
     omschrijving: Bevat alle extraElementen t/m patch 14.
     datum: 20250321
-  - title: Sectormodel StUF-BG 2.04: Berichtdefinities (pdf)
+  - title: Sectormodel StUF-BG 2.04 Berichtdefinities (pdf)
     path: documenten/bg0204.pdf
     group: 204
     versie: 21-03-2025
