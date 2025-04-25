@@ -2,20 +2,20 @@
 layout: page-with-side-nav
 title: Documentatie StUF-BG
 folder_files:
-  - title: Bg0310 20211208 patch32 (zip)
-    path: documenten/Bg0310_20211208_patch32.zip
+  - title: Bg0310 20250321 patch33 (zip)
+    path: documenten/bg0310_20250321_patch33.zip
     group: 310
-    versie: 32
+    versie: 33
     status: Definitief
-    omschrijving: Bevat alle documentatie, schema's en WSDL's behorende bij patch 32 van StUF-BG 3.10 inclusief alle bij de StUF 3.01 onderlaag horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 3.10 horende extraElementen.
-    datum: 20211208
+    omschrijving: Patch i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen. Bevat alle documentatie, schema's en WSDL's behorende bij patch 33 van StUF-BG 3.10 inclusief alle bij de StUF 3.01 onderlaag horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 3.10 horende extraElementen.
+    datum: 20250321
   - title: Extra-elementen voor bg0310 (zip)
     path: documenten/Extra-elementen_voor_bg0310.zip
     group: 310
-    versie: 3-12-2021
+    versie: 21-3-2025
     status: Definitief
-    omschrijving: 
-    datum: 20211208
+    omschrijving: Bevat alle extraElementen t/m patch 33.
+    datum: 20250321
   - title:  KeuzenVerStUFfing RSGB (pdf)
     path: documenten/KeuzenVerStUFfing_RSGB.pdf
     group: 310
@@ -28,14 +28,14 @@ folder_files:
     group: 204
     versie: 14
     status: Definitief
-    omschrijving: Patch i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen.
+    omschrijving: Patch i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen. Bevat alle documentatie, schema's en WSDL behorende bij patch 14 van StUF-BG 2.04 inclusief alle bij de StUF 2.04 onderlaag horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 2.04 horende extraElementen.
     datum: 20250321
   - title: Extra-elementen voor bg0204 (zip)
     path: documenten/Extra-elementen_voor_bg0204.zip
     group: 204
     versie: 21-3-2025
     status: Definitief
-    omschrijving: Patch i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen.
+    omschrijving: PBevat alle extraElementen t/m patch 14.
     datum: 20250321
   - title: GFO Basisgegevens (pdf)
     path: documenten/GFO_Basisgegevens.pdf
