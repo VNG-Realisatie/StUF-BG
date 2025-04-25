@@ -22,7 +22,7 @@ folder_files:
     versie: 1.15
     status: Definitief
     omschrijving: Bevat aanpassingen i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen.
-    datum: 20250325
+    datum: 20250321
   - title: Bg0204 20250321 patch14 (zip)
     path: documenten/bg0204_20250321_patch14.zip
     group: 204
