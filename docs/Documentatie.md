@@ -43,7 +43,7 @@ folder_files:
     versie: 21-03-2025
     status: Definitief
     omschrijving: Bevat aanpassingen i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen.
-    datum: 20250325
+    datum: 20250321
   - title: GFO Basisgegevens (pdf)
     path: documenten/GFO_Basisgegevens.pdf
     group: 204
