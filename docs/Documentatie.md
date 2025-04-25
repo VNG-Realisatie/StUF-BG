@@ -23,20 +23,20 @@ folder_files:
     status: Definitief
     omschrijving: 
     datum: 20211203
-  - title: Bg0204 20120701 patch13 (zip)
-    path: documenten/Bg0204_20120701_patch13.zip
+  - title: Bg0204 20250321 patch14 (zip)
+    path: documenten/bg0204_20250321_patch14.zip
     group: 204
-    versie: 13
+    versie: 14
     status: Definitief
-    omschrijving: 
-    datum: 20211208
+    omschrijving: Patch i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen.
+    datum: 20250321
   - title: Extra-elementen voor bg0204 (zip)
     path: documenten/Extra-elementen_voor_bg0204.zip
     group: 204
-    versie: 3-12-2021
+    versie: 21-3-2025
     status: Definitief
-    omschrijving: 
-    datum: 20211208
+    omschrijving: Patch i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen.
+    datum: 20250321
   - title: GFO Basisgegevens (pdf)
     path: documenten/GFO_Basisgegevens.pdf
     group: 204
