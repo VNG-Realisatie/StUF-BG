@@ -19,10 +19,10 @@ folder_files:
   - title:  KeuzenVerStUFfing RSGB (pdf)
     path: documenten/KeuzenVerStUFfing_RSGB.pdf
     group: 310
-    versie: 1.14
+    versie: 1.15
     status: Definitief
-    omschrijving: 
-    datum: 20211203
+    omschrijving: Bevat aanpassingen i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen.
+    datum: 20250325
   - title: Bg0204 20250321 patch14 (zip)
     path: documenten/bg0204_20250321_patch14.zip
     group: 204
@@ -37,6 +37,13 @@ folder_files:
     status: Definitief
     omschrijving: PBevat alle extraElementen t/m patch 14.
     datum: 20250321
+  - title:  Sectormodel StUF-BG 2.04: Berichtdefinities (pdf)
+    path: documenten/bg0204.pdf
+    group: 310
+    versie: 21-03-2025
+    status: Definitief
+    omschrijving: Bevat aanpassingen i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen.
+    datum: 20250325
   - title: GFO Basisgegevens (pdf)
     path: documenten/GFO_Basisgegevens.pdf
     group: 204
