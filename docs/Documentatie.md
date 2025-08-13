@@ -17,7 +17,7 @@ folder_files:
     omschrijving: Bevat alle extraElementen t/m patch 33.
     datum: 20250321
   - title:  KeuzenVerStUFfing RSGB (pdf)
-    path: documenten/KeuzenVerStUFfing_RSGB.pdf
+    path: documenten/keuzenVerStUFfing_RSGB.pdf
     group: 310
     versie: 1.15
     status: Definitief
