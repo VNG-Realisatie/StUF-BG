@@ -12,10 +12,10 @@ folder_files:
   - title: Extra-elementen voor bg0310 (zip)
     path: documenten/Extra-elementen_voor_bg0310.zip
     group: 310
-    versie: 21-3-2025
+    versie: 29-8-2025
     status: Definitief
-    omschrijving: Bevat alle extraElementen t/m patch 33.
-    datum: 20250321
+    omschrijving: Bevat alle extraElementen t/m patch 33 plus het door xxllnc aangemelde extraElement 'toegangBouwlaag'.
+    datum: 20250829
   - title:  KeuzenVerStUFfing RSGB (pdf)
     path: documenten/keuzenVerStUFfing_RSGB.pdf
     group: 310
@@ -33,10 +33,10 @@ folder_files:
   - title: Extra-elementen voor bg0204 (zip)
     path: documenten/Extra-elementen_voor_bg0204.zip
     group: 204
-    versie: 21-3-2025
+    versie: 29-8-2025
     status: Definitief
     omschrijving: Bevat alle extraElementen t/m patch 14.
-    datum: 20250321
+    datum: 20250829
   - title: Sectormodel StUF-BG 2.04 Berichtdefinities (pdf)
     path: documenten/bg0204.pdf
     group: 204
