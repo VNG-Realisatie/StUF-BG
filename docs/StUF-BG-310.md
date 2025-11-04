@@ -37,4 +37,5 @@ standaarden zijn gerelateerd met StUF-BG 3.10:
 - [Vertaling StUF HR naar BG](documenten/Vertaling_NHR.zip)
 
 De laatst gepubliceerde patch van StUF-BG 3.10 is patch 33. i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen. 
+
 Zie ook [de discussies m.b.t. StUF-BG 3.10](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/StUF-BG%203.10).
