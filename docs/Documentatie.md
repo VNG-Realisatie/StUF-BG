@@ -2,41 +2,43 @@
 layout: page-with-side-nav
 title: Documentatie StUF-BG
 folder_files:
-  - title: Bg0310 20250825 patch33 (zip)
-    path: documenten/bg0310_20250825_patch33.zip
+  - title: Bg0310 20260227 patch34 (zip)
+    path: documenten/bg0310_20260227_patch34.zip
     group: 310
-    versie: 33
+    versie: 34
     status: Definitief
-    omschrijving: Patch i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen. Bevat alle documentatie, schema's en WSDL's behorende bij patch 33 van StUF-BG 3.10 inclusief alle bij de StUF 3.01 onderlaag horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 3.10 horende extraElementen.<br/><br/>In vergelijking met de versie van 2025-03-21 is een kleine typo in het bestand 'bg0310\entiteiten\bg0310_simpleTypes.xsd' gecorrigeerd.
-    datum: 20250825
+    omschrijving: Patch naar aanleiding van de wijziging van de maximale lengte van de landnaam van 40 posities naar 80 posities in de LO-BRP.  
+	Daarnaast zijn ook enkele verbeteringen in de documentatie aangebracht. Bevat alle documentatie, schema's en WSDL's behorende bij patch 34 van StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 inclusief alle bij de StUF 3.01 onderlaag horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 horende extraElementen.
+    datum: 20260227
   - title: Extra-elementen voor bg0310 (zip)
     path: documenten/Extra-elementen_voor_bg0310.zip
     group: 310
-    versie: 29-8-2025
+    versie: 15-1-2026
     status: Definitief
-    omschrijving: Bevat alle extraElementen t/m patch 33 plus het door xxllnc aangemelde extraElement 'toegangBouwlaag'.
-    datum: 20250829
+    omschrijving: Bevat alle extraElementen t/m patch 34.
+    datum: 20260115
   - title:  KeuzenVerStUFfing RSGB (pdf)
     path: documenten/keuzenVerStUFfing_RSGB.pdf
     group: 310
-    versie: 1.15
+    versie: 1.16
     status: Definitief
-    omschrijving: Bevat aanpassingen i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen.
-    datum: 20250321
-  - title: Bg0204 20250321 patch14 (zip)
-    path: documenten/bg0204_20250321_patch14.zip
+    omschrijving: Er is een opmerking opgenomen m.b.t. de betekenis van de kardinaliteit in semantische modellen en de gevolgen van het verplicht stellen van attributen in een database.
+    datum: 20260113
+  - title: Bg0204 20260227 patch15 (zip)
+    path: documenten/bg0204_20260227_patch15.zip
     group: 204
-    versie: 14
+    versie: 15
     status: Definitief
-    omschrijving: Patch i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen. Bevat alle documentatie, schema's en WSDL behorende bij patch 14 van StUF-BG 2.04 inclusief alle bij de StUF 2.04 onderlaag horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 2.04 horende extraElementen.
-    datum: 20250321
+    omschrijving: Patch naar aanleiding van de wijziging van de maximale lengte van de landnaam van 40 posities naar 80 posities in de LO-BRP.  
+	Daarnaast zijn ook enkele verbeteringen in de documentatie aangebracht. Bevat alle documentatie, schema's en WSDL's behorende bij patch 34 van StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 inclusief alle bij de StUF 3.01 onderlaag horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 3.10, StUF-ZKN 3.10 en StUF-ZTC 3.10 horende extraElementen.
+    datum: 20260227
   - title: Extra-elementen voor bg0204 (zip)
     path: documenten/Extra-elementen_voor_bg0204.zip
     group: 204
-    versie: 29-8-2025
+    versie: 15-1-2026
     status: Definitief
-    omschrijving: Bevat alle extraElementen t/m patch 14.
-    datum: 20250829
+    omschrijving: Bevat alle extraElementen t/m patch 15.
+    datum: 20260115
   - title: Sectormodel StUF-BG 2.04 Berichtdefinities (pdf)
     path: documenten/bg0204.pdf
     group: 204
